@@ -1,12 +1,3 @@
 {
-  "image": "mcr.microsoft.com/devcontainers/universal:2",
-  "features": {
-    "ghcr.io/devcontainers/features/desktop-lite:1": {}
-  },
-  "portsAttributes": {
-    "6080": {
-      "label": "Desktop da Aplicação",
-      "onAutoForward": "openPreview"
-    }
-  }
+  "image": "mcr.microsoft.com/devcontainers/universal:2"
 }
